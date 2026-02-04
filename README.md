@@ -49,10 +49,7 @@
 
 ### 📊 ML & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg"/>
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg"/>
-  <img height="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
 ### 🔧 Tools
