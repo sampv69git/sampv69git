@@ -61,10 +61,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampv69git&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampv69git&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=sampv69git&theme=tokyonight" />
